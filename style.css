@@ -111,10 +111,10 @@ nav ul {
     background-size: cover;
     color: white;
     display: flex;
-    flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: top;
     text-align: center;
+    padding-top: 3rem;
 }
 
 /* Media Query */
