@@ -210,6 +210,22 @@ nav ul {
     border-bottom-right-radius: 20px;
 }
 
+.form-wrapper input {
+    padding: 1rem 3rem;
+}
+
+footer {
+    color: white;
+    background: rgba(19, 28, 39, 1);
+}
+
+.footer-wrapper {
+    display: flex;
+    padding: 2rem;
+    margin: auto;
+    justify-content: center;
+}
+
 /* Media Query */
 @media screen and (max-width: 932px) {
     nav {
